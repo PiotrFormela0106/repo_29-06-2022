@@ -89,9 +89,13 @@
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
             android:layout_weight="1"
+
             android:text="PLEASE"
             android:textSize="16sp"
             android:textStyle="bold" />
+
+ 
+
 
         <Button
             android:id="@+id/button3"
@@ -99,9 +103,13 @@
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
             android:layout_weight="1"
+
             android:text="CLICK"
             android:textSize="16sp"
             android:textStyle="bold" />
+
+           
+
 
         <Button
             android:id="@+id/button4"
@@ -109,9 +117,13 @@
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
             android:layout_weight="1"
+
             android:text="me"
             android:textSize="16sp"
             android:textStyle="bold" />
+
+            
+
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
